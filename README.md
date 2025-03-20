@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project where I have gathered 3 recipes (Lasagna, Noodles, and Fries), and have included an image, the ingredients needed, and a  step-by-step guide of how to make each item. All of this is done only by using HTML as of now.
